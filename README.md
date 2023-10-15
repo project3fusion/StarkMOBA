@@ -14,7 +14,7 @@ StarkMoba is an server authoritative and both server & client side optimized MOB
 
 <h3>How to connect Starknet with StarkSharp</h3>
 
-Check [StarkSharp Installation on Unity](https://github.com/project3fusion/StarkSharp/blob/main/StarkSharp/StarkSharp.Docs/Platforms/Unity/Setup.md)
+You can use [StarkSharp](https://github.com/project3fusion/StarkSharp) to connect MOBA game to Starknet. If you want to learn how to install it, check [StarkSharp Installation on Unity](https://github.com/project3fusion/StarkSharp/blob/main/StarkSharp/StarkSharp.Docs/Platforms/Unity/Setup.md).
 
 Example Connection:
 
