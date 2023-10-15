@@ -1,4 +1,4 @@
-<h1>Starksharp</h1>
+<h1>StarkMOBA</h1>
 
 StarkMoba is an server authoritative and both server & client side optimized MOBA Game Template.
 
