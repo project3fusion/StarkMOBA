@@ -12,9 +12,9 @@ StarkMoba is an server authoritative and both server & client side optimized MOB
 [<img src="https://img.shields.io/badge/.NET-4+-green">](./StarkSharp/StarkSharp.Docs/Platforms/DotNet/Setup.md)
 [<img src="https://img.shields.io/badge/Unity-2020 LTS+-green">](./StarkSharp/StarkSharp.Docs/Platforms/Unity/Setup.md)
 
-<h3>How To Connect Starknet</h3>
+<h3>How to connect Starknet with StarkSharp</h3>
 
-Check StarkSharp Installation
+Check [StarkSharp Installation on Unity](https://github.com/project3fusion/StarkSharp/blob/main/StarkSharp/StarkSharp.Docs/Platforms/Unity/Setup.md)
 
 Example Connection:
 
